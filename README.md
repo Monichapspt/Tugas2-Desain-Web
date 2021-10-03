@@ -1,2 +1,2 @@
 # Tugas2-Desain-Web
-sematikal web
+semantikal web
